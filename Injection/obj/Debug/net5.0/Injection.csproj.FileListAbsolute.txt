@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.exe
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.deps.json
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.runtimeconfig.json
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.runtimeconfig.dev.json
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.dll
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\bin\Debug\net5.0\Injection.pdb
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.AssemblyInfo.cs
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.dll
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\refint\Injection.dll
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.pdb
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\Injection.genruntimeconfig.cache
+C:\Users\User\Desktop\DependencyInjection\DependencyInjection\Injection\obj\Debug\net5.0\ref\Injection.dll
